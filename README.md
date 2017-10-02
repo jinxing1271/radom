@@ -1,2 +1,2 @@
-# radom
+# random
 practice
