@@ -1,0 +1,54 @@
+
+
+img {
+  width: 100%;
+  margin-top: 50px;
+}
+
+
+.first ul{
+  font-family:"Open Sans";
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 10%;
+  background-color: #DEFFF3;
+}
+
+
+.first li a {
+  display: block;
+  color: #666;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+.first li a:hover {
+  background-color: #8EF1FF;
+}
+
+
+
+
+.second ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.second li {
+  float: right;
+}
+
+.second li a {
+  color: white;
+  display: block;
+  text-decoration: none;
+  text-align: center;
+  padding:10px 16px 10px 0;
+}
